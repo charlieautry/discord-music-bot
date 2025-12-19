@@ -1,6 +1,11 @@
 # this is my discord music bot with support links (including spotify) or just general search terms
 # current cmds: /play, /skip, /leave, /queue
 
+# obviously im not able to publish these to github but there is also a .env file with the following vars:
+# DISCORD_TOKEN, FFMPEG_PATH, GUILD_ID, SPOTIFY_CLIENT_ID, SPOTIFY_CLIENT_SECRET, NODE_PATH, DENO_PATH
+
+# there is also a cookies.txt file for yt-dlp
+
 # imports
 import os
 import asyncio
