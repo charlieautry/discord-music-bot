@@ -1,5 +1,6 @@
 # repo specific ignores
 musicbot.log
+cookies.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
